@@ -11,5 +11,6 @@ package ClassesMetier;
 public class Secteur
 {
     private int idSecteur;
+    private String nomSecteur;
     
 }
