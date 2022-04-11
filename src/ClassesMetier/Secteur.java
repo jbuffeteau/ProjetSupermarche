@@ -13,4 +13,9 @@ public class Secteur
     private int idSecteur;
     private String nomSecteur;
     
+    public Secteur(int unId,String unNom)
+    {
+        idSecteur =unId;
+        nomSecteur = unNom;
+    }
 }
